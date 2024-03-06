@@ -1,12 +1,10 @@
 <!-- Header -->
 <div style="background-color: #f2f2f2; padding: 10px; text-align: center;">
-    <h1>BASE OUB WAVE ALLOC MOCA V001</h1>
+    <h1>BASE_OUB_WAVE_ALLOC_MOCA_V001</h1>
 </div>
 
 
-##  **BASE OUB WAVE ALLOC MOCA V001**
 ## **Test Category**
-
 **☐** Custom
 
 **☐** Smart IS
@@ -134,13 +132,17 @@ affected:
 
 -   **PCKWRK_VIEW**
 
--   **PCK_MOV**
+-   **PCKMOV**
 
 These tables are crucial for tracking inventory movement and allocation
 within the warehouse management system.
 
+
+
+
 <!-- Footer -->
 <div style="background-color: #f2f2f2; padding: 10px; display: flex; justify-content: space-between;">
  <a href="https://www.smart-is.pk" style="text-decoration: none;"><h1 style="color: orange;">SMART-IS</h1></a>
- <a href="https://www.smart-is.pk" style="text-decoration: none;"><h1 style="color: orange;">Next-Test</h1></a>
+ <a href="../plan_wave/output.md" style="text-decoration: none;"><h1 style="color: orange;">Next-Test</h1></a>
 </div>
+
