@@ -1,5 +1,5 @@
 - [**BASE_OUB_WAVE_ALLOC_MOCA_V001**](Alloc_Wave.md)
-    - [Test Category](#test-category)
+    - [Test Category](Alloc_Wave.md#Test-Category)
     - [Overview](#overview)
     - [Applicable versions](#applicable-versions)
     - [Test Arguments](#test-arguments)
