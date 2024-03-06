@@ -137,6 +137,6 @@ within the warehouse management system.
 
 [SMART-IS](https://www.smart-is.pk) 
 
-[Next-Test](output.md)
+[Next-Test](/plan_wave/output.md)
 
 
